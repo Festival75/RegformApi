@@ -1,0 +1,64 @@
+{
+    "total_pages": 4,
+    "total": 12,
+    "per_page": 3,
+    "page": 1,
+    "data": [
+        {
+            "password": "73fe912f0af7b93542622a3d9224464d",
+            "last_name": "\u0418\u0432\u0430\u043d\u043e\u0432",
+            "birth_date": "01.01.1970",
+            "id": 1,
+            "login": "admin",
+            "first_name": "\u0418\u0432\u0430\u043d"
+        },
+        {
+            "password": "1fee5b25633449b869f47e5b2d5a9f98",
+            "last_name": "Johnson",
+            "birth_date": "31.01.1990",
+            "id": 2,
+            "login": "jonny",
+            "first_name": "John"
+        },
+        {
+            "password": "235713105339e73eb26fae42295d1530",
+            "last_name": "\u0418\u043c\u044f\u0440\u0435\u043a\u043e\u0432",
+            "birth_date": "31.12.1980",
+            "id": 3,
+            "login": "user",
+            "first_name": "\u042e\u0437\u0435\u0440\u043d\u0435\u0439\u043c"
+        },
+        {
+            "password": "7c651de3d9c0f98d536dce4355675247",
+            "last_name": "Testelstein",
+            "birth_date": "29.02.1992",
+            "id": 4,
+            "login": "test",
+            "first_name": "Test"
+        },
+        {
+            "password": "7c651de3d9c0f98d536dce4355675247",
+            "last_name": "Testelstein",
+            "birth_date": "29.02.1992",
+            "id": 5,
+            "login": "test",
+            "first_name": "Test"
+        },
+        {
+            "password": "161ebd7d45089b3446ee4e0d86dbcf92",
+            "last_name": "Tomson",
+            "birth_date": "29.02.1992",
+            "id": 6,
+            "login": "tommy",
+            "first_name": "Tommy"
+        },
+        {
+            "password": "8b8e9715d12e4ca12c4c3eb4865aaf6a",
+            "last_name": "\u041c\u0430\u043b\u0438\u043a\u043e\u0432",
+            "birth_date": "29.02.1992",
+            "id": 7,
+            "login": "maik102",
+            "first_name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439"
+        }
+    ]
+}
